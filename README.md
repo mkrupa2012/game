@@ -1,6 +1,6 @@
 # game-of-life
 
-Link do gry: https://mkrupa2012.nazwa.pl/game-of-life
+Link do gry: http://mkrupa85.ssd-linuxpl.com/game
 
 Game of Life to tak zwana zero-player game, która rozwija się na podstawie swojego pierwotnego stanu.
 Komórki powstają i umierają na dwuwymiarowej planszy, a ich stan uzależniony jest od ich otoczenia (ośmiu komórek będących ich sąsiadami):
